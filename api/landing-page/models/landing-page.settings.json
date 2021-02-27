@@ -25,11 +25,6 @@
       "repeatable": false,
       "component": "page.header"
     },
-    "sectionAboutSection": {
-      "type": "component",
-      "repeatable": false,
-      "component": "page.section-about-section"
-    },
     "sectionTech": {
       "type": "component",
       "repeatable": false,
@@ -69,6 +64,11 @@
       "type": "component",
       "repeatable": false,
       "component": "page.section-faq"
+    },
+    "sectionAboutProject": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-about-project"
     }
   }
 }
