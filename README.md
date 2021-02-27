@@ -175,7 +175,7 @@
 
 ### 59. Criando primeiras queries do GraphQL
 
-[Site oficial do GraphQL](https://graphql.org/)
+[Site oficial do GraphQL](https://graphql.org/)   
 
 [Acesse o GraphQL via Localhost](http://localhost:1337/graphql)
 
