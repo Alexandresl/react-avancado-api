@@ -369,4 +369,20 @@ mutation DELETE_AUTHOR {
 
 [Site oficial do Netlify](https://www.netlify.com/)
 
+### 84. Configurando e subindo o projeto no heroku
 
+[Guia de deploy no Strapi](https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/deployment.html#hosting-provider-guides)
+
+[Guia de deploy no Strapi - Heroku](https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/heroku.html)
+
+[Instalando Heroku no WSL](https://dev.to/wrightdotclick/heroku-cli-on-wsl-26fp)
+
+### 85. Fazendo dump de local para produção (OPCIONAL)
+
+[Importando/Exportando dados do postgreSQL no Heroku](https://devcenter.heroku.com/articles/heroku-postgres-import-export)
+
+[Dump dos dados na minha S3](mydb.dump)
+
+[Site oficial da AWS](https://aws.amazon.com/pt/)
+
+[Site oficial da Cloudinary](https://cloudinary.com/)
