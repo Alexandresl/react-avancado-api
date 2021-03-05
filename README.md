@@ -386,3 +386,11 @@ mutation DELETE_AUTHOR {
 [Site oficial da AWS](https://aws.amazon.com/pt/)
 
 [Site oficial da Cloudinary](https://cloudinary.com/)
+
+### 86. Instalando um provider de estáticos (AWS S3)
+
+[Guia do Strapi para utilizar Providers](https://strapi.io/documentation/developer-docs/latest/development/plugins/upload.html#using-a-provider)
+
+[Lista de Providers disponíveis](https://www.npmjs.com/search?q=strapi-provider-upload-)
+
+[Código feito na aula](https://github.com/React-Avancado/landing-page-api/commit/cb45eb48b9aabf72c491c9eaba827e1584cd5e21)
