@@ -360,3 +360,19 @@ mutation DELETE_AUTHOR {
   }
 }
 ```
+
+## Seção 7: Módulo 2 (extra): Colocando a Landint Page em produção
+
+### 83. Sobre os serviços utilizados
+
+[Site oficial do heroku](https://www.heroku.com/)
+
+[Site oficial do Netlify](https://www.netlify.com/)
+
+### 84. Configurando e subindo o projeto no heroku
+
+[Guia de deploy no Strapi](https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/deployment.html#hosting-provider-guides)
+
+[Guia de deploy no Strapi - Heroku](https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/heroku.html)
+
+[Instalando Heroku no WSL](https://dev.to/wrightdotclick/heroku-cli-on-wsl-26fp)
