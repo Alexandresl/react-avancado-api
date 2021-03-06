@@ -394,3 +394,9 @@ mutation DELETE_AUTHOR {
 [Lista de Providers disponíveis](https://www.npmjs.com/search?q=strapi-provider-upload-)
 
 [Código feito na aula](https://github.com/React-Avancado/landing-page-api/commit/cb45eb48b9aabf72c491c9eaba827e1584cd5e21)
+
+### 87. Subindo o estático Next para o Netlify
+
+[Playlist sobre o Netlify](https://www.youtube.com/watch?v=a1cIjP1bueM&list=PLlAbYrWSYTiMGMxQf9JSoZUU1rgVpGPth)
+
+[Código feito na aula](https://github.com/React-Avancado/landing-page/commit/3e07833c522e5184b7f38c3e9e702ec068d1db48)
