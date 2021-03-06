@@ -400,3 +400,9 @@ mutation DELETE_AUTHOR {
 [Playlist sobre o Netlify](https://www.youtube.com/watch?v=a1cIjP1bueM&list=PLlAbYrWSYTiMGMxQf9JSoZUU1rgVpGPth)
 
 [Código feito na aula](https://github.com/React-Avancado/landing-page/commit/3e07833c522e5184b7f38c3e9e702ec068d1db48)
+
+### 88. Criando um webhook para trigger de deply no netlify
+
+[Environments no Strapi](https://strapi.io/documentation/developer-docs/latest/development/backend-customization.html#lifecycle-hooks)
+
+[Código feito na aula](https://github.com/React-Avancado/landing-page-api/commit/f300a5088d0fedd6201102c5055f661606ca47d6)
