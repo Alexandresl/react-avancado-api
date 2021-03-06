@@ -406,3 +406,13 @@ mutation DELETE_AUTHOR {
 [Environments no Strapi](https://strapi.io/documentation/developer-docs/latest/development/backend-customization.html#lifecycle-hooks)
 
 [Código feito na aula](https://github.com/React-Avancado/landing-page-api/commit/f300a5088d0fedd6201102c5055f661606ca47d6)
+
+## Seção 8: Módulo 2 (extra): Strapi - Atualizações e Migrações
+
+### 89. Migrando o Strapi de 3.0.x para 3.1.x (a versdão com permissões de usuário!)
+
+[Blog post sobre o lançamento](https://strapi.io/blog/announcing-3.1-role-based-access-control)
+
+[Guia de migração](https://strapi.io/documentation/developer-docs/latest/update-migration-guides/migration-guides/migration-guide-3.0.x-to-3.1.x.html)
+
+[Código feito na aula](https://github.com/React-Avancado/landing-page-api/commit/ff51755935c02b12ab20a571e2daafcb529b5835)
