@@ -416,3 +416,7 @@ mutation DELETE_AUTHOR {
 [Guia de migração](https://strapi.io/documentation/developer-docs/latest/update-migration-guides/migration-guides/migration-guide-3.0.x-to-3.1.x.html)
 
 [Código feito na aula](https://github.com/React-Avancado/landing-page-api/commit/ff51755935c02b12ab20a571e2daafcb529b5835)
+
+### 90. Configurando permissões de usuário (Super Admin, Author, Editor)
+
+
